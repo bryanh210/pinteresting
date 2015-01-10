@@ -1,6 +1,2 @@
-# Bryan Hoang
-
-This is the pinteresting sample application for 
-[*Bryan Hoang*]
-
-by [Bryan Tuong Hoang]
+# Totally focused
+Goal for 2015: Code, employment, startup, pickup, fitness, travel
