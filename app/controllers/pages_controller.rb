@@ -3,6 +3,6 @@ class PagesController < ApplicationController
   end
 
 
-  def aboot
+  def about
   end
 end
